@@ -1,5 +1,1 @@
-👋 Hello World, I'm **NightMare**™
-
-- I'm an discord bot developer
-- I'm an tech enthusiast 
-- I'm an introvert :P
+![Discord Presence](https://discord.c99.nl/widget/theme-1/1138276794240339988.png)
